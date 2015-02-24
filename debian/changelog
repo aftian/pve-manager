@@ -1,3 +1,9 @@
+pve-manager (3.4-1blankon1) tambora; urgency=low
+
+  * Upload to BlankOn
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 24 Feb 2015 06:31:48 +0700
+
 pve-manager (3.4-1) unstable; urgency=low
 
   * write_ceph_config: also write mds sections
